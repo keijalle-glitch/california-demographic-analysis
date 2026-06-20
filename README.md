@@ -26,7 +26,7 @@ showed strong combinations of population concentration and median income.
 
 ## Files
 
-- california_analysis.R
+- I123Project.R
 - combined_map.png
 
 ## Business Application
