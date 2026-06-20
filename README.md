@@ -27,7 +27,7 @@ showed strong combinations of population concentration and median income.
 ## Files
 
 - I123Project.R
-- combined_map.png
+- Rplot05.png
 
 ## Business Application
 
